@@ -1,0 +1,1 @@
+This is the Odin recipe project. This project requires me to build a basic recipe website. It will consist of a main index page with links to a few reciepes. This will require me to use my basic HTML5 skills to build a very crude website.
