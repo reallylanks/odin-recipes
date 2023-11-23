@@ -1,1 +1,3 @@
-This is the Odin recipe project. This project requires me to build a basic recipe website. It will consist of a main index page with links to a few reciepes. This will require me to use my basic HTML5 skills to build a very crude website.
+The Odin recipe project. Basic recipe website that consists of a homepage and links to a couple of dishes I'd never make.
+
+Website link: https://reallylanks.github.io/odin-recipes/
